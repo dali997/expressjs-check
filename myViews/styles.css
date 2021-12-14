@@ -1,0 +1,51 @@
+h1{
+color: #eeb483;
+text-align: center;
+margin: 30px;
+font-family:fantasy;
+letter-spacing:5px;}
+ul{
+    MARGIN-left: 68%;
+    padding: 10px;
+}
+
+#dali{
+    font-family: monospace;
+    color:#673d1f;
+    font-size:   30px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+li:hover{
+background-color: rgba(255, 255, 255, 0.233);
+border-radius: 10%;
+}
+body{
+    background-image: url('./food.jpg');
+}
+#power{
+margin-top: 150px;
+margin-left: 40%;
+color: #eeb483;
+font-size: 20px;
+}
+ #cardio{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 20px;
+    }
+p{color: antiquewhite;
+font-family: monospace;
+font-weight: bold;}
+#meal{
+    margin-top: 20px;
+    padding: 15%;
+    padding-top: 10px;
+
+color: #eeb483;
+background-color: rgba(0, 0, 0, 0.233);
+display: block;
+align-items: center;
+}
